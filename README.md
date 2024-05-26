@@ -5,7 +5,12 @@
 </div>
 
 ###
-
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajmaurya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+-->
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/dhirajmaurya/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -27,7 +32,6 @@
 
 ###
 <p align="left">I'm Dhiraj from Noida <br><br>- 🔭 I’m working as DevOps Engineer <br>- 📚 I'm currently learning K8s<br>- ⚡ In my free time I explore world </p>
-###
 
 <h2 align="left">I code with</h2>
 
@@ -55,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dhirajmaurya/dhirajmaurya/output/snake.svg" alt="Snake animation" />
 
 ###
